@@ -1,3 +1,4 @@
+Story:
 There was a monkey that lived in a tree with very sweet fruits.  
 Everyday he shared the fruits with his friend the crocodile.  
 The crocodile would bring home the fruit to his wife and she loved it.
